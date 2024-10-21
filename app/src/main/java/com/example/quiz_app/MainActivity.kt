@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             Quiz_AppTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Androidd",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
